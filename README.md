@@ -1,3 +1,17 @@
+Overrall having 7+ years of experience in sales and retail as Executive
+
+Started new role as data analyst and  helping clients in their business requirements delivery through data acquisition, analysis and driving insights through exploratory data analysis and dashboarding 
+
+Having  knowledge of **Python,SQL,AWS,AZURE, SNOWFLAKE ,POWERBI **.
+
+Having good understanding of statistical, and analytical techniques.
+
+Highly motivated to learn,grow and excel in Data Science Industry.
+
+Good understanding of exploratory data analysis
+
+
+
 - 👋 Hi, I’m @Venkatesh
 - 👀 I’m interested in Data Analytics and Data Science tools.
 - 🔭I’m currently using MySql, Python, Statistics,Snowflake,PowerBI and MS-Excel for Data Analysis.
