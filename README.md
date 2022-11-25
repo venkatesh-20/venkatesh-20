@@ -1,14 +1,12 @@
-Overrall having 7+ years of experience in sales and retail as Executive
+Overrall having 7+ years of experience in sales.
 
-Started new role as data analyst and  helping clients in their business requirements delivery through data acquisition, analysis and driving insights through exploratory data analysis and dashboarding 
+Started new role as data analyst and  helping clients in their business requirements delivering through data acquisition, and driving insights through exploratory data analysis and dashboarding 
 
 Having  knowledge of **Python,SQL,AWS,AZURE, SNOWFLAKE ,POWERBI **.
 
 Having good understanding of statistical, and analytical techniques.
 
 Highly motivated to learn,grow and excel in Data Science Industry.
-
-Good understanding of exploratory data analysis
 
 
 
@@ -18,7 +16,6 @@ Good understanding of exploratory data analysis
 - 🌱 I’m interested to learn AI,ML,NLP...
 - 💬 Ask me about data analytics.
 - 📫 How to reach me :venkatesh.hm4@gmail.com
-- 😄 Pronouns: He/Him
 - 👯 Self Taught and Curious to learn new tech/things 
 - ⚡Try -> Do Error -> Google -> Practice -> Guide
 
