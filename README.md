@@ -1,5 +1,3 @@
-Overrall having 7+ years of experience in sales.
-
 Started new role as data analyst and  helping clients in their business requirements delivering through data acquisition, and driving insights through exploratory data analysis and dashboarding 
 
 Having  knowledge of **Python,SQL,AWS,AZURE, SNOWFLAKE ,POWERBI **.
